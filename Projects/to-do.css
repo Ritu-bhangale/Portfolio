@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    background-color: #EFF2F6;
+    background-size: contain;
+    font-family: 'Raleway';
+    overflow-y: hidden;
+}
+::-moz-selection { /* Code for Firefox */
+    background:#280E19;
+    color: #fff;
+  }
+  
+  ::selection {
+    background: #280E19;
+    color: #fff;
+  }
+h1{
+    font-family: 'Heebo';
+    color: #280E19;
+}
+.bgdiv{
+    position: absolute;
+    left:0vw;
+    z-index: -1;
+}
+.bgdiv h1{
+    font-size: 1200%;
+    letter-spacing: 60px;
+    margin-top: 0px;
+    margin-left: -6vw;
+    color: #280E1917;
+}
+.iconify{
+    width: 36px;
+    height: 36px;
+    color: #006494;
+}
+i{
+    color: #280E19;
+}
+.home-icon{
+    margin-top: 10vh;
+    margin-left: 45vw;
+}
+h1{
+    font-size: 400%;
+    margin-top: 0px;
+    letter-spacing: 55px;
+    margin-left: 5vw;
+    margin-bottom: 0px;
+}
+p{
+    font-size: 75%;
+    width: 50vw;
+    margin-left: 5vw;
+    word-spacing: 2px;
+}
+.fas{
+    width: 48px;
+    height: 48px;
+}
+.fab{
+    margin-right: 2vw;
+}
+.icon-skils{
+    margin-top: 20vh;
+    margin-left: 5vw;
+}
+.button-project{
+    margin-top: 5vh;
+    margin-left: 5vw;
+}
+.button-project a button{
+    background-color: #577399d7;
+    color: #fff;
+    padding: 1.5vh 1.5vw;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 80px #006494;
+    border-radius: 5px;
+    font-size: 100%;
+    margin-right: 3vw;
+}
+img{
+    position: absolute;
+    top: 35vh;
+    left: 60vw;
+    width: 25vw;
+    transform: rotateZ(-30deg);
+}
