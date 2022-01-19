@@ -185,7 +185,7 @@ h3.semheading,.semester p{
     margin-bottom: 15vh;
 }
 .plot{
-    margin-right: 6vw;
+    margin-right: 2vw;
 }
 .webd{
     display: flex;
@@ -483,4 +483,8 @@ img.logo{
     .logos{
         margin-left: 0vw;
     }
+}
+.plot-1 img{
+    width: 100px;
+    margin-left: 1vw;
 }
