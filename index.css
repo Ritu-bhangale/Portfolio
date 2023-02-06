@@ -139,7 +139,7 @@ p{
     margin-bottom: 4vh;
 }
 .flent{
-    background-image: url(/flent.png);
+    background-image: url(flent.png);
     margin-left: 8vw;
     margin-right: 8vw;
 }
@@ -202,7 +202,7 @@ p{
     margin-right: 1vw;
 }
 .Noyyal{
-    background-image: url(/noyyal.png);
+    background-image: url(noyyal.png);
     margin-left: 8vw;
     margin-right: 8vw;
 }
@@ -258,7 +258,7 @@ p{
     margin-bottom: 2vh;
 }
 .coffee-bite{
-    background-image: url(/coffee.png);
+    background-image: url(coffee.png);
     margin-left: 8vw;
     margin-right: 8vw;
 }
