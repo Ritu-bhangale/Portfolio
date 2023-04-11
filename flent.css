@@ -50,7 +50,7 @@ h3{
     color: var(--greyTwo);
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-semibold);
-    letter-spacing: 1.5px;
+    letter-spacing: 1px;
 }
 p{
     color: var(--greyThree);
@@ -229,10 +229,192 @@ a:visited{
 }
 .pratik-bio h4{
     margin-top: 12vh;
-    color: #0f0f0f;
-    font-size: 1.2rem;
+    color: #111111 !important;
+    font-size: 1 rem;
     margin-bottom: 2vh;
+}
+.prateek-goals h3{
+    margin-bottom: 2vh;
+    margin-top: 4vh;
+    font-size: 0.1 rem;
 }
 .stats img{
     width: 36vw;
+}
+.prateek-goals ul span{
+    font-weight: 600;
+    margin-right: 1vw;
+    font-size: 1.05rem;
+}
+.prateek-goals ul li{
+    margin-left: 2vw;
+    margin-bottom: 2vh;
+}
+.prateek-goals ul{
+    padding: 0px;
+    list-style:lower-roman;
+    width: 40vw;
+    margin-right: 5vw;
+}
+.prateek-goals h4{
+    color: #111111;
+    font-size: 2 rem;
+    margin-bottom: 2vh;
+    margin-top: 4vh;
+}
+.pain-prateek h4{
+    color: #111111;
+    font-size: 2 rem;
+    margin-bottom: 2vh;
+    margin-top: 4vh;
+}
+.pain-prateek ul li{
+    margin-bottom: 0.5vh;
+}
+.pain-prateek ul{
+    padding-left: 8px;
+    list-style: square;
+}
+.prateek-flex{
+    display: flex;
+}
+.aditi-bio{
+    display: flex;
+    margin-top: 6vh;
+}
+.aditi-bio img{
+    width: 25vw;
+    margin-right: 12vw;
+}
+.aditi-bio h4{
+    margin-top: 12vh;
+    color: #111111 !important;
+    font-size: 1 rem;
+    margin-bottom: 2vh;
+}
+.aditi-goals h3{
+    margin-bottom: 2vh;
+    margin-top: 4vh;
+    font-size: 0.1 rem;
+}
+.stats img{
+    width: 36vw;
+}
+.aditi-goals ul span{
+    font-weight: 600;
+    margin-right: 1vw;
+    font-size: 1.05rem;
+}
+.aditi-goals ul li{
+    margin-left: 2vw;
+    margin-bottom: 2vh;
+}
+.aditi-goals ul{
+    padding: 0px;
+    list-style:lower-roman;
+    width: 40vw;
+    margin-right: 5vw;
+}
+.aditi-goals h4{
+    color: #111111;
+    font-size: 2 rem;
+    margin-bottom: 2vh;
+    margin-top: 4vh;
+}
+.pain-aditi h4{
+    color: #111111;
+    font-size: 2 rem;
+    margin-bottom: 2vh;
+    margin-top: 4vh;
+}
+.pain-aditi ul li{
+    margin-bottom: 0.5vh;
+}
+.pain-aditi ul{
+    padding-left: 8px;
+    list-style: square;
+}
+.aditi-flex{
+    display: flex;
+}
+.emathy-mapping {
+    margin-left: 8vw;
+    margin-top: 12vh;
+    margin-right: 8vw;
+}
+.emathy-mapping h3{
+    margin-bottom: 2vh;
+}
+.emathy-mapping p{
+    width: 60vw;
+}
+.prateek-emathy h4{
+    color: #0f0f0f;
+    margin-top: 6vh;
+}
+.aditi-emathy h4{
+    color: #0f0f0f;
+    margin-top: 6vh;
+}
+.emathy-mapping h2{
+    letter-spacing: 0px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1vh;
+}
+.affinity-mapping h2{
+    letter-spacing: 0px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1vh;
+}
+.affinity-mapping {
+    margin-left: 8vw;   
+    margin-top: 12vh;
+    margin-right: 8vw;
+}
+.affinity-mapping p{
+    width: 60vw;
+}
+.affinity-top{
+    margin-top: 4vh;
+}
+.img-affinity img{
+    margin-top: 2vh;
+    margin-left: auto;
+}
+.ideatec {
+    margin-left: 8vw;   
+    margin-top: 12vh;
+    margin-right: 8vw;
+}
+.card-sorting h3{
+    margin-bottom: 4vh;
+}
+.card-sorting img{
+    width: 84vw;
+}
+.img-affinity img{
+    width: 84vw;
+}
+.prateek-emathy img{
+    width: 84vw;
+}
+.aditi-emathy img{
+    width: 84vw;
+}
+.user-flow h3{
+    margin-bottom: 4vh;
+}
+.user-flow img{
+    width: 76vw;
+}
+.design{
+    margin-left: 8vw;   
+    margin-top: 12vh;
+    margin-right: 8vw;
+}
+.first-wireframe img, .second-wireframe img, .third-wireframe img, .fourth-wireframe img{
+    width: 18%;
+    align-items:start;
 }
